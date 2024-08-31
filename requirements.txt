@@ -3,4 +3,4 @@ pandas
 matplotlib
 jupyter-manim
 gizeh
-moviepy.editor
+moviepy
