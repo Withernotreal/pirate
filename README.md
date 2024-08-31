@@ -1,3 +1,3 @@
 # pirate
 For manim
-https://mybinder.org/v2/gh/Withernotreal/pirate.git/HEAD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Withernotreal/pirate.git/HEAD)
