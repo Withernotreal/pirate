@@ -2,3 +2,6 @@ numpy>=1.25.0
 pandas
 matplotlib
 jupyter-manim
+gizeh
+logging
+moviepy.editor
